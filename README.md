@@ -5,6 +5,8 @@ This is the repo solely for the backend of our DSC-arezue project
 - daffychuy [https://github.com/daffychuy]
 - pshyong [https://github.com/pshyong]
 
+## Frontend
+- https://github.com/daffychuy/Arezue-Frontend-DSC
 ## Requirements
 - npm^6.13
 - nodejs^12.14.1
